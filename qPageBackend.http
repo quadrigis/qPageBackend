@@ -1,0 +1,6 @@
+@qPageBackend_HostAddress = http://localhost:5126
+
+GET {{qPageBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
